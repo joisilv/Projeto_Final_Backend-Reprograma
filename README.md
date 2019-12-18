@@ -2,7 +2,7 @@
 
 
 
-Projeto realizado no curso de backend do {reprograma}, onde desenvolvi uma API que disponibiliza uma lista de destinos e roteiros para apoiar os novos viajantes.
+Projeto realizado no curso de backend do {reprograma}, onde desenvolvi uma API que disponibiliza uma lista de destinos e roteiros para apoiar viajantes e aventureiros.
 
  
 
